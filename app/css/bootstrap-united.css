@@ -152,11 +152,11 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #dd4814;
+  color: #da1717;
   text-decoration: none;
 }
 a:hover {
-  color: #97310e;
+  color: #a50303;
   text-decoration: underline;
 }
 .img-rounded {
@@ -3503,12 +3503,12 @@ input[type="submit"].btn.btn-mini {
   min-height: 40px;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #d44413;
-  background-image: -moz-linear-gradient(top, #ce4213, #dd4814);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ce4213), to(#dd4814));
-  background-image: -webkit-linear-gradient(top, #ce4213, #dd4814);
-  background-image: -o-linear-gradient(top, #ce4213, #dd4814);
-  background-image: linear-gradient(to bottom, #ce4213, #dd4814);
+  background-color: #ea2428;
+  background-image: -moz-linear-gradient(top, #ea2428, #ea2428);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ea2428), to(#ea2428));
+  background-image: -webkit-linear-gradient(top, #ea2428, #ea2428);
+  background-image: -o-linear-gradient(top, #ea2428, #ea2428);
+  background-image: linear-gradient(to bottom, #ea2428, #ea2428);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffce4213', endColorstr='#ffdd4814', GradientType=0);
   border: 1px solid #c64012;
